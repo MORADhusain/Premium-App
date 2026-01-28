@@ -10,7 +10,7 @@
   "show_cancel_btn": true,
   "btn_cancel": "CANCEL",
   
-  "show_update_btn": true,
+  "show_update_btn": false,
   "btn_update": "Update Now",
   "update_url": "https://t.me/mdshohan"
 }
