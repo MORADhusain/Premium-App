@@ -1,10 +1,16 @@
 {
   "show": true,
-  "id": 1,
+  "daily_limit": 5,
   "header": "NOTICE",
-  "title": "নতুন আপডেট এসেছে!",
-  "message": "আলহামদুলিল্লাহ, আমাদের অ্যাপের নতুন ভার্সন রিলিজ হয়েছে। নিচের বাটন চেপে বিস্তারিত দেখে নিন অথবা ক্লোজ করুন।",
-  "image_url": "https://i.imgur.com/FxWk2hD.png",
+  "title": "স্বাগতম!",
+  "message": "আমাদের অ্যাপ ব্যবহার করার জন্য ধন্যবাদ। নিচের লিংকে জয়েন করে আপডেট থাকুন।",
+  "image_url": "https://raw.githubusercontent.com/mdshohanurrahmanshohan776-ux/pp/refs/heads/main/1636363068631%20(1).png",
   "footer": "Modded By Shohan",
-  "btn_text": "CANCEL"
+  
+  "show_cancel_btn": true,
+  "btn_cancel": "CANCEL",
+  
+  "show_update_btn": true,
+  "btn_update": "Update Now",
+  "update_url": "https://t.me/mdshohan"
 }
