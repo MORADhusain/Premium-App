@@ -7,7 +7,8 @@
   "image_url": "https://github.com/MORADhusain/Premium-App/raw/refs/heads/main/1740261753370.jpg",
   "footer": "Modded By Shohan",
   
-  "show_cancel_btn": true,
+  "show_cancel_btn": false
+  ,
   "btn_cancel": "CANCEL",
   
   "show_update_btn": false,
